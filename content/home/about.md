@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Microbial Ecology",
+    "Wetland Science",
+    "Bioinformatics, RNA regulation, Systems Biology, the list goes on..."
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. Candidate in Ecology and Evolutionary Biology"
+  institution = "Tulane University"
+  year = "Expected Graduation: 2020"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BS in Biology"
+  institution = "Hunter College"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BFA in Film"
+  institution = "Rochester Institute of Technology"
+  year = 2004
  
 +++
 
-# Biography
+### About
+I am a Ph.D. student in Ecology and Evolutionary Biology at Tulane University in the lab of [Dr. Sunshine Van Bael](http://vanbaellab.wp.tulane.edu/) in New Orleans, Louisiana. I 
+currently focus on the how the salt marsh grass, *Spartina alterniflora*, and its microbial associates influence each other and are shaped by petroleum.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My CV is available [here](https://sformel.github.io/pdfs/SF_CV_May2018.pdf). 
